@@ -9,5 +9,5 @@ https://*{{your_domain}}*.vercel.app/api/proxy?url=*{{target_path}}*
  1. Fork this repository
 ### Vercel Console
  1. Add New (Project)
- 1. Import Git Repository (from Github)
+ 1. Import Git Repository (Github)
  1. Deploy
